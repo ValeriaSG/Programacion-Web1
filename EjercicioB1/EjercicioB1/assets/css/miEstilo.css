@@ -1,0 +1,15 @@
+body{
+    background-color: darkgray;
+}
+
+#encabezado1{
+    color: blue;
+}
+
+#encabezado2{
+    color: lightblue;
+}
+
+.margenImg{
+    margin-top: 2.5rem;
+}
